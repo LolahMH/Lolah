@@ -411,9 +411,10 @@ header
 }
 
 .header-area .main-nav .nav {
-
+  float: none;
+  position: absolute;
   margin-top: 27px;
-  margin-left: 30px;
+  margin-left: 0px;
   margin-right: 30px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
