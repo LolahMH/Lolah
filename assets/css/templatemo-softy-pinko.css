@@ -411,8 +411,7 @@ header
 }
 
 .header-area .main-nav .nav {
-  float: none;
-  position: absolute;
+  float: right;
   margin-top: 27px;
   margin-left: 0px;
   margin-right: 30px;
